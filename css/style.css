@@ -573,3 +573,5 @@ a {
 	font-size: 12px;
 	letter-spacing: 0pt;
 }
+
+.circular--portrait img { width: 300px; height: auto; border-radius: 50%; }
